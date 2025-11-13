@@ -1,0 +1,1 @@
+ALTER TABLE `career_applications` ADD `location` text NOT NULL;
