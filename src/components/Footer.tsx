@@ -28,7 +28,7 @@ export default function Footer() {
               A creative agency that designs websites, builds apps, manages brands, and grows businesses digitally.
             </p>
             <div className="flex space-x-4">
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
+              <a href="https://www.facebook.com/profile.php?id=61574657661284" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
@@ -37,7 +37,7 @@ export default function Footer() {
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
                 <Linkedin className="h-5 w-5" />
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
+              <a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=skf7p5u" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
             </div>
