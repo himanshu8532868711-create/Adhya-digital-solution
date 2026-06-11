@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://Aadhyadigitalsolution.com';
+  const baseUrl = 'https://www.aadhyadigitalsolution.com';
   const currentDate = new Date();
 
   // Static pages
